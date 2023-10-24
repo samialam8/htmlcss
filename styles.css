@@ -12,7 +12,7 @@ header {
     text-align: center;
     padding: 32px;
 }
-
+/* for styling image inside header */
 header img {
     width: 300px;
 }
